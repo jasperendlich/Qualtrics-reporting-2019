@@ -1,0 +1,152 @@
+﻿CourseID,Course Name,Fac,Theme,Programme,Platform
+RAIL_01P,Railway Engineering: Track and Train Interaction,CEG,0,Railway Engineering,ProfEd
+RAIL_02P,Railway Engineering: Real Time Operations,CEG,0,Railway Engineering,ProfEd
+RAIL_03P,Railway Engineering: Performance over Time,CEG,0,Railway Engineering,ProfEd
+RAIL_04P,Railway Engineering: Capstone Project,CEG,0,Railway Engineering,ProfEd
+PVpro1x,PV materials and devices modelling,EWI,0,"PV Modeling, Simulation and Analysis",ProfEd
+PVpro2x,PV systems modelling,EWI,0,"PV Modeling, Simulation and Analysis",ProfEd
+AE-NRS01x,Aeroacoustics: Noise Reduction Strategies for Mechanical Systems,LR,0,Aeroacoustics,ProfEd
+AE-MTA01x,Aeroacoustics: Measurement Techniques,LR,0,Aeroacoustics,ProfEd
+EX102SPx,Análisis de datos: Diseño y Visualización de Tableros,EWI,DAP, Análisis y Visualización de Datos con Excel (PCP),edX
+EX102SPx,Análisis de datos: Diseño y Visualización de Tableros,EWI,DAP, Análisis y Visualización de Datos con Excel (PCP),edX
+EX101SPx,Análisis de datos: Llévalo al MAX(),EWI,DAP, Análisis y Visualización de Datos con Excel (PCP),edX
+EX101SPx,Análisis de datos: Llévalo al MAX(),EWI,DAP, Análisis y Visualización de Datos con Excel (PCP),edX
+ST2x,Automated Software Testing: Advanced skills for Java Developers,EWI,DAP,Automated Software Testing in Java (PCP),edX
+ST2x,Automated Software Testing: Advanced skills for Java Developers,EWI,DAP,Automated Software Testing in Java (PCP),edX
+ST1x,Automated Software Testing: Practical Skills for Java Delopers,EWI,DAP,Automated Software Testing in Java (PCP),edX
+ST1x,Automated Software Testing: Practical Skills for Java Delopers,EWI,DAP,Automated Software Testing in Java (PCP),edX
+BMI.2x,BM Design,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.2x,BM Design,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.2x,BM Design,TBM,BSR,Business Model Innovation (PCP),edX
+BMI.2x,BM Design,TBM,BSR,Business Model Innovation (PCP),edX
+BMI.4x,BM Implementation,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.4x,BM Implementation,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.4x,BM Implementation,TBM,BSR,Business Model Innovation (PCP),edX
+BMI.4x,BM Implementation,TBM,BSR,Business Model Innovation (PCP),edX
+BMI.5x,BM Metrics and Tools,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.5x,BM Metrics and Tools,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.3x,BM Testing,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.3x,BM Testing,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.3x,BM Testing,TBM,BSR,Business Model Innovation (PCP),edX
+BMI.3x,BM Testing,TBM,BSR,Business Model Innovation (PCP),edX
+LEfE3x,Communicating Effectively: How to inspire and convince,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE3x,Communicating Effectively: How to inspire and convince,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE3x,Communicating Effectively: How to inspire and convince,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE3x,Communicating Effectively: How to inspire and convince,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+EX101x,Data Analysis EX101,EWI,DAP,Data Analysis (XSerie),edX
+EX101x,Data Analysis EX101,EWI,DAP,Data Analysis (XSerie),edX
+EX101x,Data Analysis EX101,EWI,DAP,Data Analysis & Visualization with Excel (PCP),edX
+EX101x,Data Analysis EX101,EWI,DAP,Data Analysis & Visualization with Excel (PCP),edX
+EX102x,Data Analysis EX102,EWI,DAP,Data Analysis (XSerie),edX
+EX102x,Data Analysis EX102,EWI,DAP,Data Analysis (XSerie),edX
+EX102x,Data Analysis EX102,EWI,DAP,Data Analysis (XSerie),edX
+EX103x,Data Analysis EX103,EWI,DAP,Data Analysis (XSerie),edX
+EX103x,Data Analysis EX103,EWI,DAP,Data Analysis (XSerie),edX
+EX100,Data Analysis Xserie,EWI,DAP,Data Analysis (XSerie),edX
+EX102x,Data Analysis: Visualization and Dashboard Design,EWI,DAP,Data Analysis & Visualization with Excel (PCP),edX
+EX102x,Data Analysis: Visualization and Dashboard Design,EWI,DAP,Data Analysis & Visualization with Excel (PCP),edX
+MED01x,Design in Healthcare,IO,DA,Product Design & Health (PCP),edX
+MED01x,Design in Healthcare,IO,DA,Product Design & Health (PCP),edX
+MED01x,Design in Healthcare,IO,DA,Product Design & Health (PCP),edX
+MED01x,Design in Healthcare,IO,DA,Product Design & Health (PCP),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+CTB3365DWx,Drinking Water Treatment,CITG,HE,Water Management (XSerie),edX
+LEfE1x,Effective Decision Making: dealing with complexity,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE1x,Effective Decision Making: dealing with complexity,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE1x,Effective Decision Making: dealing with complexity,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE1x,Effective Decision Making: dealing with complexity,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+eCARS3x,Electric Cars: Business,EWI,Energy,Electric Cars (PCP),edX
+eCARS3x,Electric Cars: Business,EWI,Energy,Electric Cars (PCP),edX
+eCARS3x,Electric Cars: Business,EWI,Energy,Electric Cars (PCP),edX
+eCARS3x,Electric Cars: Business,EWI,Energy,Electric Cars (PCP),edX
+eCARS1x,Electric Cars: Introduction,EWI,Energy,Electric Cars (PCP),edX
+eCARS1x,Electric Cars: Introduction,EWI,Energy,Electric Cars (PCP),edX
+eCARS1x,Electric Cars: Introduction,EWI,Energy,Electric Cars (PCP),edX
+eCARS1x,Electric Cars: Introduction,EWI,Energy,Electric Cars (PCP),edX
+eCARS4x,Electric Cars: Policy,EWI,Energy,Electric Cars (PCP),edX
+eCARS4x,Electric Cars: Policy,EWI,Energy,Electric Cars (PCP),edX
+eCARS4x,Electric Cars: Policy,EWI,Energy,Electric Cars (PCP),edX
+eCARS4x,Electric Cars: Policy,EWI,Energy,Electric Cars (PCP),edX
+eCARS2x,Electric Cars: Technology,EWI,Energy,Electric Cars (PCP),edX
+eCARS2x,Electric Cars: Technology,EWI,Energy,Electric Cars (PCP),edX
+eCARS2x,Electric Cars: Technology,EWI,Energy,Electric Cars (PCP),edX
+eCARS2x,Electric Cars: Technology,EWI,Energy,Electric Cars (PCP),edX
+LEfE2x,Influencing Stakeholders,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE2x,Influencing Stakeholders,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE2x,Influencing Stakeholders,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+LEfE2x,Influencing Stakeholders,TBM,BSR,Leadership Essentials for Engineers (PCP),edX
+DDA691x,Product Design: The Delft Design Approach,IO,DA,Product Design & Health (PCP),edX
+DDA691x,Product Design: The Delft Design Approach,IO,DA,Product Design & Health (PCP),edX
+DDA691x,Product Design: The Delft Design Approach,IO,DA,Product Design & Health (PCP),edX
+DDA691x,Product Design: The Delft Design Approach,IO,DA,Product Design & Health (PCP),edX
+MEP301x,Project Finance: Funding Projects Succesfully,CITG,BSR,Management of Engineering Projects (PCP),edX
+MEP301x,Project Finance: Funding Projects Succesfully,CITG,BSR,Management of Engineering Projects (PCP),edX
+MEP301x,Project Finance: Funding Projects Succesfully,CITG,BSR,Management of Engineering Projects (PCP),edX
+MEP101x,Project Management of Engineering Projects,CITG,BSR,Management of Engineering Projects (PCP),edX
+MEP101x,Project Management of Engineering Projects,CITG,BSR,Management of Engineering Projects (PCP),edX
+MEP101x,Project Management of Engineering Projects,CITG,BSR,Management of Engineering Projects (PCP),edX
+MEP201x,Project Management: Mastering Complexity,CITG,BSR,Management of Engineering Projects (PCP),edX
+MEP201x,Project Management: Mastering Complexity,CITG,BSR,Management of Engineering Projects (PCP),edX
+MEP201x,Project Management: Mastering Complexity,CITG,BSR,Management of Engineering Projects (PCP),edX
+PV5x,Solar Energy: Capstone Project,EWI,Energy,Solar Energy Engineering (MM),edX
+PV5x,Solar Energy: Capstone Project,EWI,Energy,Solar Energy Engineering (MM),edX
+PV1x,Solar Energy: PV Conversion,EWI,Energy,Solar Energy Engineering (MM),edX
+PV1x,Solar Energy: PV Conversion,EWI,Energy,Solar Energy Engineering (MM),edX
+PV1x,Solar Energy: PV Conversion,EWI,Energy,Solar Energy Engineering (MM),edX
+PV1x,Solar Energy: PV Conversion,EWI,Energy,Solar Energy Engineering (MM),edX
+PV1x,Solar Energy: PV Conversion,EWI,Energy,Solar Energy Engineering (MM),edX
+PV1x,Solar Energy: PV Conversion,EWI,Energy,Solar Energy Engineering (MM),edX
+PV1x,Solar Energy: PV Conversion,EWI,Energy,Solar Energy Engineering (MM),edX
+PV1x,Solar Energy: PV Conversion,EWI,Energy,Solar Energy Engineering (MM),edX
+PV4x,Solar Energy: PV in Microgrids,EWI,Energy,Solar Energy Engineering (MM),edX
+PV4x,Solar Energy: PV in Microgrids,EWI,Energy,Solar Energy Engineering (MM),edX
+PV4x,Solar Energy: PV in Microgrids,EWI,Energy,Solar Energy Engineering (MM),edX
+PV4x,Solar Energy: PV in Microgrids,EWI,Energy,Solar Energy Engineering (MM),edX
+PV4x,Solar Energy: PV in Microgrids,EWI,Energy,Solar Energy Engineering (MM),edX
+PV4x,Solar Energy: PV in Microgrids,EWI,Energy,Solar Energy Engineering (MM),edX
+PV3x,Solar Energy: PV Systems,EWI,Energy,Solar Energy Engineering (MM),edX
+PV3x,Solar Energy: PV Systems,EWI,Energy,Solar Energy Engineering (MM),edX
+PV3x,Solar Energy: PV Systems,EWI,Energy,Solar Energy Engineering (MM),edX
+PV3x,Solar Energy: PV Systems,EWI,Energy,Solar Energy Engineering (MM),edX
+PV3x,Solar Energy: PV Systems,EWI,Energy,Solar Energy Engineering (MM),edX
+PV3x,Solar Energy: PV Systems,EWI,Energy,Solar Energy Engineering (MM),edX
+PV2x,Solar Energy: PV Technologies,EWI,Energy,Solar Energy Engineering (MM),edX
+PV2x,Solar Energy: PV Technologies,EWI,Energy,Solar Energy Engineering (MM),edX
+PV2x,Solar Energy: PV Technologies,EWI,Energy,Solar Energy Engineering (MM),edX
+PV2x,Solar Energy: PV Technologies,EWI,Energy,Solar Energy Engineering (MM),edX
+PV2x,Solar Energy: PV Technologies,EWI,Energy,Solar Energy Engineering (MM),edX
+PV2x,Solar Energy: PV Technologies,EWI,Energy,Solar Energy Engineering (MM),edX
+PV2x,Solar Energy: PV Technologies,EWI,Energy,Solar Energy Engineering (MM),edX
+QTM2x,The Building Blocks of a Quantum Computer: part 1,QuTech,SC,Quantum Computing 101,edX
+QTM3x,The Building Blocks of a Quantum Computer: part 2,QuTech,SC,Quantum Computing 101,edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+CTB3365STx,Treatment of Urban Sewage,CITG,HE,Water Management (XSerie),edX
+BMI.1x,Value of BM,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.1x,Value of BM,TBM,BSR,Business Model Innovation (XSerie),edX
+BMI.1x,Value of BM,TBM,BSR,Business Model Innovation (PCP),edX
+BMI.1x,Value of BM,TBM,BSR,Business Model Innovation (PCP),edX
+CTB3300WCx,Water & Climate,CITG,HE,Water Management (XSerie),edX
+CTB3300WCx,Water & Climate,CITG,HE,Water Management (XSerie),edX
+CTB3300WCx,Water & Climate,CITG,HE,Water Management (XSerie),edX
+CTB3300WCx,Water & Climate,CITG,HE,Water Management (XSerie),edX
+CTB3300WCx,Water & Climate,CITG,HE,Water Management (XSerie),edX
+CTB3300WCx,Water & Climate,CITG,HE,Water Management (XSerie),edX
+CTB3300WCx,Water & Climate,CITG,HE,Water Management (XSerie),edX
+IEPG1x,Smart Grids: The Basics,EWI,0,Smart Grids Integration and Modeling,edX
+IEPG2x,Smart Grids: Modeling,EWI,0,Smart Grids Integration and Modeling,edX
+EnerTran1x,Energy Markets of Today,TBM,0,The Economics of Energy Transition,edX
+EnerTran2x,The Transition to the Decarbonised Economy of Tomorrow,TBM,0,The Economics of Energy Transition,edX
